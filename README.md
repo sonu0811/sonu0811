@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Hiren 
+<h1 align=”center”>👋 Hi there, I'm Hiren</h1> 
 
 - 📍 Reach me: dolasiyahiren@gmail.com
 
