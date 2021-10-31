@@ -19,7 +19,7 @@ Completed Diploma Degree in Information Technology.
 
 ---
 
-## 🤝 Connect with Me :
+### 🤝 Connect with Me :
 
 [<img align="left" alt="sonu0811 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -27,7 +27,9 @@ Completed Diploma Degree in Information Technology.
 
 [<img align="left" alt="sonu0811 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-## Languages and Tools
+---
+
+### Languages and Tools
 
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 
