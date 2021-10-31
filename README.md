@@ -12,6 +12,7 @@
 ---
 
 ## Education :
+
 ### Indira College of Engineering and Management Pune
 Pursuing Bachelors Degree in Computer Engineering.
 
