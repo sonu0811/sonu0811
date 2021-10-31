@@ -8,6 +8,7 @@
 
 - 💻 Intrested in Learn about new Technology. 
 
+
 ---
 
 ## Education :
@@ -16,6 +17,7 @@ Pursuing Bachelors Degree in Computer Engineering.
 
 ### MAEER's, MIT Polytechnic Pune
 Completed Diploma Degree in Information Technology.
+
 
 ---
 
