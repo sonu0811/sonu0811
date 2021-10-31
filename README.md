@@ -2,9 +2,9 @@
 
 - 📍 Reach me: dolasiyahiren@gmail.com
 
-- 🌱 I’m currently learning Python, MongoDB, My SQL, & JAVA
+- 🌱 I’m currently learning Python, MongoDB, My SQL, & JAVA Languages.
 
-- 👨‍💻 Future Computer Engineer 
+- 👨‍💻 Future Computer Engineer. 
 
 - 💻 Intrested in Learn about new Technology. 
 
@@ -17,7 +17,6 @@ Pursuing Bachelors Degree in Computer Engineering.
 
 ### MAEER's, MIT Polytechnic Pune
 Completed Diploma Degree in Information Technology.
-
 
 ---
 
