@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Hiren 👋
+### 👋 Hi there, I'm Hiren 
 
 - 📍 Reach me: dolasiyahiren@gmail.com
 
