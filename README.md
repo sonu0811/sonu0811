@@ -26,7 +26,7 @@ Completed Diploma Degree in Information Technology.
 The Project bassicaly based on Sustainable Energy. Implimantation of is done in CSS language.
 
 ### Home Page 
-<img align="left" alt="Hospital | Screenshot 1" width="150px" src="https://raw.githubusercontent.com/Ojas-3/Ojas-3/main/Ojas-3/Ojas-3/images/login.png" /><br></br><br></br>
+
 
 http://theglowgreen.unaux.com/?i=1
 
