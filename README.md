@@ -2,7 +2,7 @@
 
 - 📍 Reach me: dolasiyahiren@gmail.com
 
-- 🌱 I’m currently learning Python, MongoDB, My SQL, & JAVA Languages.
+- 🌱 I’m currently learning Cloud computing Python, MongoDB, My SQL, & JAVA Languages.
 
 - 👨‍💻 Future Computer Engineer. 
 
